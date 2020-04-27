@@ -12,8 +12,6 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-
-	<groupId>com.bezkoder</groupId>
 	<name>backend</name>
 	<description>Demo project for Spring Boot Apis CRUD using Spring Data JPA</description>
 

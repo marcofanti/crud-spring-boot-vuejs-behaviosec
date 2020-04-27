@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1587925971513" clover="3.2.0">
+  <project timestamp="1587925971513" name="All files">
+    <metrics statements="23" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="18" coveredmethods="2" elements="41" coveredelements="6" complexity="0" loc="23" ncloc="23" packages="3" files="3" classes="3"/>
+    <package name="src">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="http-common.js" path="/Volumes/EXternalSSD/BehavioSec/Development/vue/crud-spring-boot-vuejs-behaviosec/frontend/src/http-common.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="16" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="2"/>
+      <file name="User.vue" path="/Volumes/EXternalSSD/BehavioSec/Development/vue/crud-spring-boot-vuejs-behaviosec/frontend/src/components/User.vue">
+        <metrics statements="16" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="2"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="89" count="2" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+      <file name="UserDataService.js" path="/Volumes/EXternalSSD/BehavioSec/Development/vue/crud-spring-boot-vuejs-behaviosec/frontend/src/services/UserDataService.js">
+        <metrics statements="7" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
